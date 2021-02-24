@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.vikingswap.finance/'
+    href: 'https://taste.finance/'
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.vikingswap.finance/farms'
+    href: 'https://taste.finance/farms'
   },
   {
-    label: 'Armory',
+    label: 'Savory',
     icon: 'PoolIcon',
-    href: 'https://www.vikingswap.finance/nests'
+    href: 'https://taste.finance/nests'
   },
   {
     label: 'Info',
@@ -37,11 +37,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0',
+        href: 'https://pancakeswap.info/token/0xF34b702924751434Bdf83Acc2766947d4c38fBEE',
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43',
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x067FC72ab9743b431Ab8D8a85758B2d30e81E75b',
       },
     ]
   },
@@ -51,15 +51,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/VikingDefi/",
+        href: "https://github.com/TasteFinance/",
       },
       {
         label: "Docs",
-        href: "https://vikingswap.gitbook.io/viking-swap/",
+        href: "https://docs.taste.finance/",
       },
       {
         label: "Blog",
-        href: "https://viking-swap.medium.com/",
+        href: "https://tastefinance.medium.com/",
       },
     ],
   }
