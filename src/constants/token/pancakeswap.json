@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Taste Finance",
-      "symbol": "TASTE",
-      "address": "0xF34b702924751434Bdf83Acc2766947d4c38fBEE",
+      "name": "Shemale Finance",
+      "symbol": "SHEMALE",
+      "address": "0x021443316C1a86b7bADb537F948bE82de4F67e69",
       "chainId": 56,
       "decimals": 18
     },

@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://taste.finance/'
+    href: 'https://shemale.finance/'
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://taste.finance/farms'
+    href: 'https://shemale.finance/farms'
   },
   {
     label: 'Savory',
     icon: 'PoolIcon',
-    href: 'https://taste.finance/nests'
+    href: 'https://shemale.finance/nests'
   },
   {
     label: 'Info',
@@ -37,7 +37,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0xF34b702924751434Bdf83Acc2766947d4c38fBEE',
+        href: 'https://pancakeswap.info/token/0x021443316C1a86b7bADb537F948bE82de4F67e69',
       },
       {
         label: 'AstroTools',
@@ -51,19 +51,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Voting",
-        href: "https://snapshot.page/#/tastefinance.eth/",
+        href: "https://snapshot.page/#/shemalefinance.eth/",
       },        
       {
         label: "Github",
-        href: "https://github.com/TasteFinance/",
+        href: "https://github.com/ShemaleFinance/",
       },
       {
         label: "Docs",
-        href: "https://docs.taste.finance/",
+        href: "https://docs.shemale.finance/",
       },
       {
         label: "Blog",
-        href: "https://tastefinance.medium.com/",
+        href: "https://shemalefinance.medium.com/",
       },
     ],
   }
