@@ -41,7 +41,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x067FC72ab9743b431Ab8D8a85758B2d30e81E75b',
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x8841Ba293841a77C373e0783ee88368E51Ae6970',
       },
     ]
   },
